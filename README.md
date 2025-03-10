@@ -1,24 +1,20 @@
+# About This Repository
+This repository was created and is maintained by a student of LPNU, Olha Klishchevska. The purpose of this repositiry is to store and manage course-related content.
+
+## Purpose
+
+The primary goal of this repository is to store and manage course-related content, including:
+
+- Practical assignments
+
+- Documentation and reports
+
 # [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
 
 > Admin dashboard based on paper dashboard UI template + vue-router
 
 This project is a vue version of [Paper-dashboard](https://www.creative-tim.com/product/paper-dashboard)
 designed for vue js.The dashboard includes vue-router
-
-Check the [Live Demo here](https://cristijora.github.io/vue-paper-dashboard).
-
-[Nuxt Version (outdated Bootstrap 3)](https://github.com/cristijora/vue-paper-dashboard-nuxt)
-![](http://i.imgur.com/3iC1hOs.gif)
-
-## Deploy
-
-:rocket: You can deploy your own version of the template to Genezio with one click:
-
-[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/vue-paper-dashboard&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
-
-## Documentation
-
-Link to [Documentation](http://vuejs.creative-tim.com/vue-paper-dashboard/documentation/)
 
 ## Build Setup
 
