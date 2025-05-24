@@ -1,0 +1,6 @@
+projectKey=project-by-klishchevska
+serverUrl=http://10.0.2.15:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://10.0.2.15:9000/dashboard?id=project-by-klishchevska
+ceTaskId=AZYfs5jTMZc3Vq11qnu0
+ceTaskUrl=http://10.0.2.15:9000/api/ce/task?id=AZYfs5jTMZc3Vq11qnu0
